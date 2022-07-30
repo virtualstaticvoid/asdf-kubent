@@ -8,6 +8,7 @@
 
 ```
 asdf plugin-add kubent https://github.com/virtualstaticvoid/asdf-kubent.git
+asdf install kubent latest
 ```
 
 ## Use
